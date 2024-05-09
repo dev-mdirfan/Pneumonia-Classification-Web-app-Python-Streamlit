@@ -10,3 +10,5 @@
 The model was trained using the data provided in the next section and following [this step by step tutorial on how to train an image classifier with Teachable Machine](https://youtu.be/ybh9p3QOYrs).
 
 The trained model is available in my [Patreon](https://www.patreon.com/ComputerVisionEngineer).
+
+Github : https://github.com/computervisioneng/pneumonia-classification-web-app-python-streamlit
